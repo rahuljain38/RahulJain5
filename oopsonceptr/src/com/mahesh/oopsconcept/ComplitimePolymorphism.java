@@ -3,6 +3,7 @@ class Result
 {
 	public void add(int a,int b)
 	{
+		//RJ
 		int r = a+b;
 		System.out.println(r);
 	}
